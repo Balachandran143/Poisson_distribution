@@ -1,12 +1,8 @@
 # Fitting Poisson  distribution
 ## Aim : 
-
 To fit poisson distribution for the arrival of objects per minute from the feeder
-
 ## Software required :  
-
 Python and Visual component tool
-
 ## Theory:
 
 The Poisson distribution is the discrete probability distribution of the number of events occurring in a given time period, given the average number of times the event occurs over that time period.
@@ -68,12 +64,8 @@ else:
 ```
 ## Output : 
 
-
-
-
 ![Screenshot 2023-11-06 153909](https://github.com/Balachandran143/Poisson_distribution/assets/118886489/bf8e04a5-824e-4647-aab6-050b92edf2db)
 
 ## Results
-
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
  
